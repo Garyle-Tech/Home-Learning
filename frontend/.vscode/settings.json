@@ -1,8 +1,9 @@
 {
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.codeActionsOnSave": {
-            "source.fixAll": "always",
-        }
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always"
     }
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.22.1"
 }
